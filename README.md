@@ -1,4 +1,4 @@
-![Galv pic](https://github.com/user-attachments/assets/c3eba1d8-3f98-4dc0-bafb-adfaf6cfb10c)
+
 # DELAYED OIL TRANSFER PROJECT
 **PROJECT OVERVIEW**
 **Objective**
@@ -66,6 +66,8 @@ Based on the Exploratory Data Analysis (EDA) and insights derived from the SQL q
   * **Actionable Steps:**
       * Evaluate whether the number of drivers matches the number of trucks and expected delivery volumes.
       * Consider flexible staffing models, such as on-demand or seasonal hires, to meet peak service needs.
+
+![Galv pic](https://github.com/user-attachments/assets/c3eba1d8-3f98-4dc0-bafb-adfaf6cfb10c)
 2. Fleet Management and Maintenance Optimization
   * **Recommendation:** Analyze the number of efficient trucks and the breakdown/maintenance frequency. If a significant percentage of trucks are not efficient, or if maintenance is frequent, consider upgrading or replacing older trucks. Actionable Steps:
       * Perform a detailed analysis of trucks' age, usage patterns, and maintenance logs to identify inefficiencies.
